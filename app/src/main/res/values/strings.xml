@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GDBaseAdaptador</string>
+    <string name="ttituloapp">Agenda</string>
+    <string name="hnombre">Ingrese su nombre</string>
+    <string name="hedad">Ingrese su edad</string>
+    <string name="hsexo">Ingrese su sexo</string>
+    <string name="bgrabar">Grabar</string>
+    <string name="dnombre">Nombre</string>
+    <string name="dedad">Edad</string>
+    <string name="dsexo">Sexo</string>
+</resources>
